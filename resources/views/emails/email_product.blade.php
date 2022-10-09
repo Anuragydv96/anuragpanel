@@ -10,6 +10,6 @@
     <h1>Test EMAIL</h1>
     <p>Name: {{ $mailData['name'] }}</p>
     <p>DOB: {{ $mailData['dob'] }}</p>
-    <p>send by anurag</p>
+    <p>send by anurag</p> 
 </body>
 </html>
